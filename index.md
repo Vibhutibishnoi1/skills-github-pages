@@ -1,4 +1,4 @@
 ---
-title: "Hello : BWelcome to my blog!"
+title: "Hello : Welcome to my blog!"
 ---
 
