@@ -9,8 +9,8 @@ To learn how to write blogs on Github Pages
 
 ## The Tech Stack
 * **Hosting:** GitHub Pages
-* **Framework:** Jekyll / Hugo / MyST Markdown
-* **Theme:** (e.g., Minimal Mistakes, al-folio, or Cactus)
+* **Framework:** Jekyll
+* **Theme:** minima
 
 
 ## Challenges Faced & Solved
