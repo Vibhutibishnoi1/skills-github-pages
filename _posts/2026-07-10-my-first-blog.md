@@ -3,7 +3,6 @@ title: "Why I Built This Blog"
 date: 2026-07-10
 ---
 
-## Why I Built This Blog
 * ###**To learn how to write blogs on Github Pages.**
 
 ## The Tech Stack
